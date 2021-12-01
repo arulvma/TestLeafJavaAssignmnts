@@ -1,0 +1,2 @@
+# TestLeafJavaAssignmnts
+ContainsJavaAssignments
