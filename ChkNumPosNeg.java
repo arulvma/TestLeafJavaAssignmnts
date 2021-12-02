@@ -20,9 +20,6 @@ public class ChkNumPosNeg {
 		
 		ChkNumPosNeg Obj = new ChkNumPosNeg();
 		
-		/*
-		 * Obj.NumPosorNeg(-1); Obj.NumPosorNeg(0); Obj.NumPosorNeg(1);
-		 */
 		Obj.NumPosorNeg(0);
 		
 
